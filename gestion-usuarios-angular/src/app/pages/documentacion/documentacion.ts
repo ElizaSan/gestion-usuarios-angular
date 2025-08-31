@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   templateUrl: './documentacion.html',
   styleUrl: './documentacion.scss'
 })
+
 export class Documentacion {
 
 }
